@@ -1,1 +1,6 @@
-/home/red-dragon/Documentos/CursoDevSuperior/src/main/java/com/CursoDevSuperior/Curso/CursoApplication.java
+/home/red-dragon/Documentos/CursoApiDevSuperior/src/main/java/com/CursoDevSuperior/Curso/CursoApplication.java
+/home/red-dragon/Documentos/CursoApiDevSuperior/src/main/java/com/CursoDevSuperior/Curso/controllers/GameController.java
+/home/red-dragon/Documentos/CursoApiDevSuperior/src/main/java/com/CursoDevSuperior/Curso/dto/GameMinDTO.java
+/home/red-dragon/Documentos/CursoApiDevSuperior/src/main/java/com/CursoDevSuperior/Curso/entities/Game.java
+/home/red-dragon/Documentos/CursoApiDevSuperior/src/main/java/com/CursoDevSuperior/Curso/repositories/GameRepository.java
+/home/red-dragon/Documentos/CursoApiDevSuperior/src/main/java/com/CursoDevSuperior/Curso/services/GameService.java

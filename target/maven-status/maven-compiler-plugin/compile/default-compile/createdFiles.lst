@@ -1,1 +1,6 @@
+com/CursoDevSuperior/Curso/repositories/GameRepository.class
+com/CursoDevSuperior/Curso/services/GameService.class
+com/CursoDevSuperior/Curso/controllers/GameController.class
 com/CursoDevSuperior/Curso/CursoApplication.class
+com/CursoDevSuperior/Curso/entities/Game.class
+com/CursoDevSuperior/Curso/dto/GameMinDTO.class
